@@ -1,0 +1,8 @@
+{
+  "name": "Sensor Demo Hub",
+  "description": "An advanced React-based web application demonstrating browser-based sensor capabilities including camera, torch (flash), and microphone. Features an experimental photoplethysmography (PPG) heart-rate prototype and a real-time breathing visualizer. Designed for educational and prototyping purposes, not for medical use.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
